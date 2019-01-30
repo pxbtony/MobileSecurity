@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">MobileSecurity</string>
+    <string name="app_name">手机防盗</string>
+    <string name="tab_menu_alert">功能</string>
+    <string name="tab_menu_profile">信息</string>
+    <string name="tab_menu_pay">我的</string>
+    <string name="tab_menu_setting">设置</string>
+    <string name="funtion_still">静止模式</string>
+    <string name="funtion_flight">飞行模式</string>
+    <string name="funtion_power">充电模式</string>
+    <string name="funtion_pocket">口袋模式</string>
+    <string name="funtion_ShutDown">关机模式</string>
+    <string name="funtion_still_content">开启后移动手机会自动报警</string>
+    <string name="funtion_flight_content">关闭飞行模式后手机会自动报警</string>
+    <string name="funtion_power_content">电源插头被拔后手机会自动报警</string>
+    <string name="funtion_pocket_content">手机从口袋被拿出后即刻自动报警</string>
+    <string name="funtion_ShutDown_content">长按电源键预警或者关机会自动报警</string>
+    <string name="settings_lights_mode">夜间模式</string>
+    <string name="settings_prompt_mode">报警提示设置</string>
+    <string name="settings_password_mode">撤销报警密码设置</string>
+    <string name="settings_share_mode">软件分享</string>
+    <string name="settings_description_mode">使用说明</string>
+    <string name="message_title">抓拍界面</string>
+    <string name="message_time">抓拍时间:</string>
+    <string name="message_share">转发</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+
 </resources>
