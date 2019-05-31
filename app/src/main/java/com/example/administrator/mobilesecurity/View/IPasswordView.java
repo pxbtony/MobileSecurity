@@ -5,4 +5,6 @@ public interface IPasswordView  {
     void ShowPasswordDialog();
     void showTest();
     void showTest1();
+
+    void showTest100();
 }
